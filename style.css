@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+   margin-bottom: 50px;
+}
+.bg-color{    
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.buy-now{
+    background-color:black;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3px;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 5px;    
+    margin-top: 30px;
+}
+.all{
+    margin-top: 12px;
+    color: #FFC61E;
+}
+.cat{
+    text-align: center;
+}
+
+.design{
+    border-radius: 5px 20px 5px;
+    text-align: center;
+    width: 150px;
+    box-shadow: 2px 6px 11px rgb(211 211 211 / 75%);   
+    padding: 10px 5px;
+}
+.design img{
+    width: 100px;
+}
+.shoe{
+    margin-top: 20px;
+}
+.ctg{
+    margin-top: 50px;
+}
